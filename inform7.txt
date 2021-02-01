@@ -90,14 +90,6 @@ Ambulance is a thing. Ambulance is in Garage. The Description of Ambulance is "A
 
 Section 3.3 On the Kitchen
 
-Dining table is a supporter. Dinning table is in kitchen.
-Roast Chicken is a thing.
-Lasagna is a thing. The Description of Lasagna is "Hmmmmm... It's my favorite food. It smells so good...".
-Fork is a thing.
-Knife is a thing.
-Hospital jelly is a thing. The Description of Hospital jelly is "A jelly without flavour, colour, just horrible.".
-Roast Chicken, Lasagna, Fork, Knife, Hospital jelly are on the dining table.
-
 Sink's kitchen is a thing. Sink's kitchen is in the Kitchen.
 
 Kitchen cabinet is a container. Kitchen cabinet is closed.  Kitchen cabinet is in the Kitchen. Kitchen cabinet is openable.
@@ -167,6 +159,24 @@ Section 3.12 On the Home Office
 
 Desk is a thing. Desk is in Home Office.
 Computer is a thing. Computer is in Home Office
+
+Section 3.13 On the Living Room
+
+Sofa is a thing. Sofa is in the Living Room.
+TV Rack is a supporter. TV Rack is in the Living Room.
+TV is a thing. Old DVD is a thing. Speaker is a thing.
+TV, Old DVD and Speaker are on the TV Rack.
+
+Section 3.15 On the Dining Room
+
+Dining table is a supporter. Dining table is in the Kitchen.
+Roast Chicken is a thing.
+Lasagna is a thing. The Description of Lasagna is "Hmmmmm... It's my favorite food. It smells so good...".
+Fork is a thing.
+Knife is a thing.
+Hospital jelly is a thing. The Description of Hospital jelly is "A jelly without flavour, colour, just horrible.".
+Roast Chicken, Lasagna, Fork, Knife, Hospital jelly are on the dining table.
+
 
 Chapter 4 What Happens when entering
 
