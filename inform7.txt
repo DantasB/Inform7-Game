@@ -1,4 +1,6 @@
-Chapter 1 New Kinds
+"Rebirth of Gabriel" by Grupo sem nome
+
+use scoring;
 
 Section 1.1 The Staircase
 
@@ -77,7 +79,7 @@ Watering can is a container. Watering can is in the Garden. The Description of W
 Plant is a thing. Plant is in the Garden. The Description of Plant is "This plant smells so good... ".
 
 Game Manual is a thing. Game Manual is in the Garden. The Description of Game Manual is "Welcome to the game. Your objective is to find 6 memorial itens that makes you remember that you're possible dreaming. Good luck and enjoy the game.".
-Dog house is a closed openable container. Dog house is in the Garden. The matching key of the  Dog house is dog bone.
+Dog house is a closed locked openable container. Dog house is in the Garden. The matching key of the  Dog house is dog bone.
 The Description of Dog house is "'Grrrr...AU'. -The Rex need to bite.".
 Dog's food bowl is a thing. Dog's water bowl is a thing.
 Bitten volleyball ball is a thing. The Description of Bitten volleyball is "Oh, i remember this ball. I miss play volley with my friends...".
@@ -164,13 +166,13 @@ Computer is a thing. Computer is in Home Office
 Section 3.13 On the Living Room
 
 Sofa is a thing. Sofa is in the Living Room.
-TV Rack is a supporter. TV Rack is in the Living Room.
+Rack is a supporter. Rack is in the Living Room.
 TV is a thing. Old DVD is a thing. Speaker is a thing.
-TV, Old DVD and Speaker are on the TV Rack.
+TV, Old DVD and Speaker are on the Rack.
 
 Section 3.15 On the Dining Room
 
-Dining table is a supporter. Dining table is in the Kitchen.
+Dining table is a supporter. Dining table is in the Dining room.
 Roast Chicken is a thing.
 Lasagna is a thing. The Description of Lasagna is "Hmmmmm... It's my favorite food. It smells so good...".
 Fork is a thing.
@@ -227,3 +229,15 @@ Being Inside the Attic begins when player is in Attic.
 Being Inside the Attic ends when player is not in Attic.
 Before taking the Defibrillator during Being Inside the Attic:
 	Say "Defibrillator ? Here at home ? Am I really at home ? Is it a dream ?(6th Item)".
+
+Chapter 5 Finishing game
+
+After going to Operating room:
+	Now the score is 0;
+	let L be { Defibrillator, Family's photo, Hospital's bill, Bitten volley's ball, Hospital jelly, Ambulance};
+	repeat with n running through L:
+		if player have n:
+			increase the score by 1;
+	if the score is 6:
+		end the story finally saying "Congratulations, you finished the game.";
+
