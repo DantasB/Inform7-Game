@@ -60,9 +60,11 @@ Second Floor is a region. The Upper Hall, Parent's bedroom, the Guest's bedroom,
 Attic is a room.
 Third Floor is a region. Attic is in Third Floor.
 
-
 Operating room is a room.
 Hospital is a region. Operating room is in Hospital.
+
+Operating door is a door. It is west of Operating room and east of Home Office. Operating door is closed and locked.
+The matching key of the Operating door is Operating room's key.
 
 Chapter 3 Things
 
