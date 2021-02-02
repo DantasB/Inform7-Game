@@ -29,7 +29,6 @@ Carry out sitting on a chair:
 Report sitting on a chair:
 	say "You feel confortable".
 
-
 Chapter 2 Geography
 
 Section 2.1 The House
@@ -115,7 +114,7 @@ The Description of Family's photo is "It's a picture of my 6 years old birthday.
 
 Section 3.5 On the Parent's bedroom
 
-Bedside cabinet is a container. Bedside cabinet is in Parent's bedroom. Bedside cabinet  is closed and locked. The matching key of the Bedside cabinet is Small Key.
+Bedside cabinet is a container. Bedside cabinet is in Parent's bedroom. Bedside cabinet is closed and locked. The matching key of the Bedside cabinet is Small Key.
 Wardrobe is a thing. Wardrobe is in Parent's bedroom.
 Parent's bed is a thing. Parent's is in Parent's bedroom.
 Parent's television is a thing. Parent's television is in Parent's bedroom. The Description of Parent's television is "I Want to watch cartoons but i don't think it's a good time.".
@@ -157,7 +156,6 @@ Section 3.11 On the Guest's bedroom
 
 Guest's bed is a thing. Guest's bed is in Guest's bedroom.
 
-
 Section 3.12 On the Home Office
 
 Desk is a thing. Desk is in Home Office.
@@ -182,8 +180,8 @@ Roast Chicken, Lasagna, Fork, Knife, Hospital jelly are on the dining table.
 
 Section 3.16 On the Upper Hall
 
-Family picture is a thing. Family picture is in Upper Hall.
-The Description of Family Picture is "A picture of the day I went to the park with my parents. It was a sunny and happy day".
+Big painting is a thing. Big painting is in Upper Hall.
+The Description of Big painting is "An old painting of a house on a hill. I've always liked it.".
 
 Chapter 4 What Happens when entering
 
