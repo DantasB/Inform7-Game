@@ -78,7 +78,8 @@ Watering can is a container. Watering can is in the Garden. The Description of W
 Plant is a thing. Plant is in the Garden. The Description of Plant is "This plant smells so good... ".
 
 Game Manual is a thing. Game Manual is in the Garden. The Description of Game Manual is "Welcome to the game. Your objective is to find 6 memorial itens that makes you remember that you're possible dreaming. Good luck and enjoy the game.".
-Dog house is a container. Dog house is in the Garden.
+Dog house is a closed openable container. Dog house is in the Garden. The matching key of the  Dog house is dog bone.
+The Description of Dog house is "'Grrrr...AU'. -The Rex need to bite.".
 Dog's food bowl is a thing. Dog's water bowl is a thing.
 Bitten volleyball ball is a thing. The Description of Bitten volleyball is "Oh, i remember this ball. I miss play volley with my friends...".
 Dog's water bowl, Dog's food bowl, Bitten volley's ball are in Dog house.
