@@ -212,7 +212,7 @@ Being Inside the Child's bedroom is a Scene.
 Being Inside the Child's bedroom begins when player is in Child's bedroom.
 Being Inside the Child's bedroom ends when player is not in Child's bedroom.
 Before taking the Family's photo during Being Inside the Child's bedroom:
-	Say "Where are my parent's... Seems like that they aren't here. Where did they go? (4th Item)".
+	Say "Where are my parents... Seems like that they aren't here. Where did they go? (4th Item)".
 	
 Being Inside the Parent's bedroom is a Scene.
 Being Inside the Parent's bedroom begins when player is in Parent's bedroom.
