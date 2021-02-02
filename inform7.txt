@@ -197,7 +197,7 @@ Before taking the Main Key during Being Outside the House:
 Being Inside the Garden is a Scene.
 Being Inside the Garden begins when player is in Garden.
 Being Inside the Garden ends when player is not in Garden.
-Before taking the Bitten volleyball during Being Inside the Garden:
+Before taking the Bitten volley's ball during Being Inside the Garden:
 	Say "My friends... How long since i don't see them... Maybe we could play volleyball again! (1st Item)".
 
 Being Inside the Garage is a Scene.
