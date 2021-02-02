@@ -180,6 +180,10 @@ Knife is a thing.
 Hospital jelly is a thing. The Description of Hospital jelly is "A jelly without flavour, colour, just horrible.".
 Roast Chicken, Lasagna, Fork, Knife, Hospital jelly are on the dining table.
 
+Section 3.16 On the Upper Hall
+
+Family picture is a thing. Family picture is in Upper Hall.
+The Description of Family Picture is "A picture of the day I went to the park with my parents. It was a sunny and happy day".
 
 Chapter 4 What Happens when entering
 
